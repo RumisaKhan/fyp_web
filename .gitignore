@@ -1,0 +1,7 @@
+node_modules
+.next
+./next
+/public/crown
+/public/earings
+/public/glasses
+/public/necklace
