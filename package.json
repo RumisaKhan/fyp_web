@@ -3,6 +3,9 @@
     "version": "1.2.0",
     "description": "LastCode",
     "main": "index.js",
+    "engines": {
+        "node": "14.x"
+    },
     "scripts": {
         "dev": "node server.js -p $PORT",
         "build": "next build",
