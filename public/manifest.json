@@ -1,6 +1,6 @@
 {
-    "name": "LastShop App",
-    "short_name": "LastShop",
+    "name": "ARShop App",
+    "short_name": "ARShop",
     "theme_color": "#b54ced",
     "background_color": "#b54ced",
     "display": "standalone",
