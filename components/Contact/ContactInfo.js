@@ -11,15 +11,15 @@ class ContactInfo extends Component {
                 <ul className="contact-list">
                     <li>
                         <i className='bx bx-map'></i> 
-                        Location: Wonder Street, USA, New York
+                        Location: Mehran University of Engineering And Technology Jamshoro
                     </li>
                     <li>
                         <i className='bx bx-phone-call'></i> 
-                        Call Us: +1-541-754-3010
+                        Call Us: +92389299090
                     </li>
                     <li>
                         <i className='bx bx-envelope'></i> 
-                        Email Us: hello@livani.com
+                        Email Us: arshop38125@gmail.com
                     </li>
                     <li>
                         <i className='bx bx-microphone'></i> 

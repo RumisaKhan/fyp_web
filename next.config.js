@@ -1,4 +1,4 @@
-/*
+
 const withPWA = require("next-pwa");
 const runtimeCaching = require("next-pwa/cache");
 module.exports = withPWA({
@@ -6,8 +6,8 @@ module.exports = withPWA({
     dest: "public",
     runtimeCaching,
   },
-});*/
-const withPWA = require("next-pwa");
+});
+/*const withPWA = require("next-pwa");
 const prod = process.env.NODE_ENV === "production";
 const settings = {
   env: {
@@ -20,4 +20,4 @@ const settings = {
       dest: "public",
     },
   };
-  module.exports = process.env.NODE_ENV === "development" ? settings : withPWA(settings);
+  module.exports = process.env.NODE_ENV === "development" ? settings : withPWA(settings);*/

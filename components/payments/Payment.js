@@ -90,7 +90,7 @@ class Payments extends React.Component {
       <React.Fragment>
         <div className="order-btn">
           <StripeCheckout
-            name="LastShop"
+            name="ARShop"
             description="React Next eCommerce AR"
             amount={amount}
             currency="USD"

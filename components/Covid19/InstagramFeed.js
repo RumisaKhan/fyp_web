@@ -49,7 +49,7 @@ class InstagramFeed extends Component {
                 <div className="container-fluid">
                     <div className="instagram-title">
                         <a href="#" target="_blank">
-                            <i className='bx bxl-instagram'></i> Follow us on @LastShop
+                            <i className='bx bxl-instagram'></i> Follow us on @ARShop
                         </a>
                     </div>
 

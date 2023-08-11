@@ -35,9 +35,9 @@ class About extends Component {
                             <div className="col-lg-6 col-md-12">
                                 <div className="about-content">
                                     <span className="sub-title">About Us</span>
-                                    <h2>Linava Trusted Online Shopping Site in the World</h2>
-                                    <h6>Linava.com offers you flexible and responsive shopping experience.</h6>
-                                    <p><strong>Linava</strong> is an eCommerce website which features millions of products, i.e. clothes, shoes, bags, electronic items and much more, with all at incredible prices.</p>
+                                    <h2>ARShop Trusted Online Shopping Site in the World</h2>
+                                    <h6>ARShop.com offers you flexible and responsive shopping experience.</h6>
+                                    <p><strong>ARShop</strong> is an eCommerce website which features millions of products, i.e. clothes, shoes, bags, electronic items and much more, with all at incredible prices.</p>
                                     <p>One of the most popular on the web is shopping. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
 
                                     <div className="features-text">
@@ -59,10 +59,10 @@ class About extends Component {
                                         <p>One of the most popular on the web is shopping.</p>
                                         
                                         <ul className="features-list">
-                                            <li><i className='bx bx-check'></i> People like LastCode</li>
-                                            <li><i className='bx bx-check'></i> World's finest LastCode</li>
-                                            <li><i className='bx bx-check'></i> The original LastCode</li>
-                                            <li><i className='bx bx-check'></i> We trust LastCode</li>
+                                            <li><i className='bx bx-check'></i> People like ARShop</li>
+                                            <li><i className='bx bx-check'></i> World's finest ARShop</li>
+                                            <li><i className='bx bx-check'></i> The original ARShop</li>
+                                            <li><i className='bx bx-check'></i> We trust ARShop</li>
                                         </ul>
                                     </div>
                                 </div>
