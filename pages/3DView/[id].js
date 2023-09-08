@@ -114,14 +114,14 @@ class ThreeScene extends Component {
       meshpositionzState,
     } = this.state;
     var mtlLoader = new MTLLoader();
-    mtlLoader.load(`https://lastshop786.herokuapp.com/api/getFile?url=${model3dmtlState}`, (materials) => {
+    mtlLoader.load(model3dmtlState, (materials) => {
       materials.preload();
       console.log("Material loaded");
 
       var objLoader = new OBJLoader();
       objLoader.setMaterials(materials);
       objLoader.load(
-        `https://lastshop786.herokuapp.com/api/getFile?url=${model3dState}`,
+        model3dState,
         (object) => {
           this.freedomMesh = object;
           this.freedomMesh.position.setX(meshpositionxState); //or  this
