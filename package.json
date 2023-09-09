@@ -4,7 +4,7 @@
     "description": "LastCode",
     "main": "index.js",
     "engines": {
-        "node": "14.x"
+        "node": "16.x"
     },
     "scripts": {
         "dev": "node server.js -p $PORT",
